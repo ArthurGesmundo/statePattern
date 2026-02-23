@@ -76,3 +76,4 @@ class VendingMachine {
         return outOfOrderState;
     }
 }
+
